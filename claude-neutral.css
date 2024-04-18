@@ -1,0 +1,42 @@
+/* Claude Neutral */
+/* https://github.com/956MB/boosts/blob/main/claude-neutral.css */
+
+/* https://claude.ai/ */
+
+[data-mode=light] {
+    color-scheme: light !important;
+    --text-000: 0 0% 5.5% !important;
+    --text-100: 0 0% 13.3% !important;
+    --text-200: 0 0% 20% !important;
+    --text-300: 0 0% 30% !important;
+    --text-400: 0 0% 37% !important;
+    --text-500: 0 0% 42.1% !important;
+    --bg-000: 0 0% 97.1% !important;
+    --bg-100: 0 0% 94.9% !important;
+    --bg-200: 0 0% 92% !important;
+    --bg-300: 0 0% 87.8% !important;
+    --bg-400: 0 0% 82% !important;
+    --bg-500: 0 0% 71% !important;
+}
+
+[data-mode=dark] {
+    color-scheme: dark !important;
+    --text-000: 0 0% 97.1% !important;
+    --text-100: 0 0% 94.9% !important;
+    --text-200: 0 0% 89.2% !important;
+    --text-300: 0 0% 79% !important;
+    --text-400: 0 0% 69.2% !important;
+    --text-500: 0 0% 62.9% !important;
+    --bg-000: 0 0% 22% !important;
+    --bg-100: 0 0% 17.8% !important;
+    --bg-200: 0 0% 16.1% !important;
+    --bg-300: 0 0% 12% !important;
+    --bg-400: 0 0% 9.2% !important;
+    --bg-500: 0 0% 5.5% !important;
+}
+
+[data-theme=claude] .code-block__code,
+[data-theme=claude] .code-block__code > *
+{
+    background-color: #252525 !important;
+}
