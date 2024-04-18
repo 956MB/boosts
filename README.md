@@ -5,9 +5,7 @@
 * [claude.ai](#claude-neutral)
   * [Claude Neutral](./claude-neutral.css) / [Claude Neutral Darker](./claude-neutral-darker.css)
 
----
-
-## Adding boosts
+# Adding boosts
 
 1. Open [Arc](https://arc.net/)
 2. Go to corresponding site for the boost you're installing (e.g. [claude.ai](https://claude.ai/))
@@ -19,23 +17,17 @@
 
 **DONE!**
 
----
+## Claude Neutral
 
-<div style="text-align: left;" id="claude-neutral">
-    <div style="display: flex; text-align: left;">
-        <h3>Claude Neutral</h3>
-        <img src="img/Claude-Neutral-Colors.png" alt="claude-neutral-colors" style="width: 30%; margin-top: 5px; margin-left: 25px; object-fit: contain;"/>
-    </div>
-</div>
-
-Removes the green-ish/yellow-ish tint from the original [claude.ai](https://claude.ai/chat) chat UI. Neutral greys only. Light and Dark.
+<p>Claude Neutral removes the green-ish/yellow-ish tint from the original claude.ai UI. Neutral greys only. Light and Dark.</p>
 
 [claude-neutral.css](./claude-neutral.css) · [claude-neutral-darker.css](./claude-neutral-darker.css)
 
-![claude-neutral-darker](./img/Claude-Neutral-Darker.png)
+<img src="img/Claude-Neutral-Colors.png" alt="claude-neutral-colors" style="width: 30%;"/>
 
----
+![claude-neutral-darker](./img/Claude-Neutral-Darker.png)
 
 ## License
 
 [MIT license](./LICENSE)
+
