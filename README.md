@@ -1,9 +1,9 @@
 # Boosts
 
-*Boost process works as of **v1.38.0**. [Arc](https://arc.net/) could change how the boosts function at any time, they change things up a lot.*
+*Boost process works as of **v1.39.0**. [Arc](https://arc.net/) could change how the boosts function at any time, they update often...*
 
-* [claude.ai](#claude-neutral)
-  * [Claude Neutral](./boosts/claude-neutral.css) / [Claude Neutral Darker](./boosts/claude-neutral-darker.css)
+* [Claude Neutral](./boosts/claude-neutral.css) / [Claude Neutral Darker](./boosts/claude-neutral-darker.css)
+* [Keymap Editor Github Dark](./boosts/keymap-editor-github-dark.css)
 
 # Adding boosts
 
@@ -19,15 +19,24 @@
 
 ## Claude Neutral
 
-<p>Claude Neutral removes the green-ish/yellow-ish tint from the original claude.ai UI. Neutral greys only.</p>
+Claude Neutral removes the green-ish/yellow-ish tint from the original claude.ai UI. Neutral greys only.
 
 [claude-neutral.css](./boosts/claude-neutral.css) · [claude-neutral-darker.css](./boosts/claude-neutral-darker.css)
 
-<img src="img/Claude-Neutral-Colors.png" alt="claude-neutral-colors" style="width: 30%;"/>
+<img src="img/Claude-Neutral-Colors.png" alt="claude-neutral-colors" style="height: 40px;"/>
 
 ![claude-neutral-darker](./img/Claude-Neutral-Darker.png)
+
+## Keymap Editor Github Dark
+
+Matches [Keymap Editor](https://github.com/nickcoutsos/keymap-editor) background to the Github Dark theme to improve the look of screenshots in repos.
+
+[keymap-editor-github-dark.css](./boosts/keymap-editor-github-dark.css)
+
+<img src="img/keymap-editor-github-dark-colors.png" alt="keymap-editor-github-dark-colors" style="height: 40px;"/>
+
+![keymap-editor-github-dark](./img/keymap-editor-github-dark.png)
 
 ## License
 
 [MIT license](./LICENSE)
-
