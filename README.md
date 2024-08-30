@@ -41,7 +41,7 @@ Matches [Keymap Editor](https://github.com/nickcoutsos/keymap-editor) background
 
 [keymap-editor-github-dark.css](./boosts/keymap-editor-github-dark.css)
 
-![keymap-editor-github-dark](./img/Keymap-Editor-Github-Dark.png)
+![keymap-editor-github-dark](./img/Keymap-Editor-Github-Dark-1.png)
 
 ## F1 TV Dark Fixes
 
