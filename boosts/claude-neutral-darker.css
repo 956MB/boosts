@@ -3,40 +3,39 @@
 
 /* https://claude.ai/ */
 
-[data-mode=light] {
-    color-scheme: light !important;
-    --text-000: 0 0% 5.5% !important;
-    --text-100: 0 0% 13.3% !important;
-    --text-200: 0 0% 20% !important;
-    --text-300: 0 0% 30% !important;
-    --text-400: 0 0% 37% !important;
-    --text-500: 0 0% 42.1% !important;
-    --bg-000: 0 0% 97.1% !important;
-    --bg-100: 0 0% 94.9% !important;
-    --bg-200: 0 0% 92% !important;
-    --bg-300: 0 0% 87.8% !important;
-    --bg-400: 0 0% 82% !important;
-    --bg-500: 0 0% 71% !important;
+[data-mode="light"] {
+  color-scheme: light !important;
+  --text-000: 0 0% 5.5% !important;
+  --text-100: 0 0% 13.3% !important;
+  --text-200: 0 0% 20% !important;
+  --text-300: 0 0% 30% !important;
+  --text-400: 0 0% 37% !important;
+  --text-500: 0 0% 42.1% !important;
+  --bg-000: 0 0% 97.1% !important;
+  --bg-100: 0 0% 94.9% !important;
+  --bg-200: 0 0% 92% !important;
+  --bg-300: 0 0% 87.8% !important;
+  --bg-400: 0 0% 82% !important;
+  --bg-500: 0 0% 71% !important;
 }
 
-[data-mode=dark] {
-    color-scheme: dark !important;
-    --text-000: 0 0% 97.1% !important;
-    --text-100: 0 0% 94.9% !important;
-    --text-200: 0 0% 89.2% !important;
-    --text-300: 0 0% 79% !important;
-    --text-400: 0 0% 69.2% !important;
-    --text-500: 0 0% 62.9% !important;
-    --bg-000: 0 0% 15.4% !important;
-    --bg-100: 0 0% 12.5% !important;
-    --bg-200: 0 0% 11.3% !important;
-    --bg-300: 0 0% 8.4% !important;
-    --bg-400: 0 0% 6.4% !important;
-    --bg-500: 0 0% 3.9% !important;
+[data-mode="dark"] {
+  color-scheme: dark !important;
+  --text-000: 0 0% 97.1% !important;
+  --text-100: 0 0% 94.9% !important;
+  --text-200: 0 0% 89.2% !important;
+  --text-300: 0 0% 79% !important;
+  --text-400: 0 0% 69.2% !important;
+  --text-500: 0 0% 62.9% !important;
+  --bg-000: 0 0% 15.4% !important;
+  --bg-100: 0 0% 12.5% !important;
+  --bg-200: 0 0% 11.3% !important;
+  --bg-300: 0 0% 8.4% !important;
+  --bg-400: 0 0% 6.4% !important;
+  --bg-500: 0 0% 3.9% !important;
 }
 
-[data-theme=claude] .code-block__code,
-[data-theme=claude] .code-block__code > *
-{
-    background-color: #1d1d1d !important;
+[data-theme="claude"] .code-block__code,
+[data-theme="claude"] .code-block__code > * {
+  background-color: #1d1d1d !important;
 }
