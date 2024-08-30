@@ -2,7 +2,7 @@
 
 *Boost process works as of **v1.39.0**. [Arc](https://arc.net/) could change how the boosts function at any time, they update often...*
 
-<!-- * [Hugging Face Neutral](./boosts/hugging-face-neutral.css) -->
+* [Hugging Face Neutral](./boosts/hugging-face-neutral.css)
 * [Claude Neutral](./boosts/claude-neutral.css) / [Claude Neutral Darker](./boosts/claude-neutral-darker.css)
 * [Keymap Editor (nickcoutsos) Github Dark](./boosts/keymap-editor-github-dark.css)
 * [F1TV Dark Fixes](./boosts/f1tv-dark-fixes.css)
@@ -19,19 +19,19 @@
 
 **DONE!**
 
-<!-- ## Hugging Face Neutral (WIP) -->
-<!---->
-<!-- Another Neutral modification, this time changing the [Hugging Face](https://huggingface.co/) ~~blue~~ dark theme to my favorite neutral greys an whites. All icons and accent colors are left unchanged. -->
-<!---->
-<!-- [hugging-face-neutral.css](./boosts/hugging-face-neutral.css) -->
-<!---->
-<!-- ![Hugging-Face-Neutral](./img/Hugging-Face-Neutral.png) -->
+## Hugging Face Neutral (WIP)
+
+Another Neutral modification, this time changing the [Hugging Face](https://huggingface.co/) ~~blue~~ dark theme to my favorite neutral greys an whites. All icons and accent colors are left unchanged. *Not 100% done, some small elements still have blue hover states and stuff. Is _mostly_ neutral though*.
+
+Last updated: 08-30-2024 | [hugging-face-neutral.css](./boosts/hugging-face-neutral.css)
+
+![Hugging-Face-Neutral](./img/Hugging-Face-Neutral.png)
 
 ## Claude Neutral
 
 Claude Neutral removes the green-ish/yellow-ish tint from the original claude.ai UI. Neutral greys only.
 
-[claude-neutral.css](./boosts/claude-neutral.css) · [claude-neutral-darker.css](./boosts/claude-neutral-darker.css)
+Last updated: 04-18-2024 | [claude-neutral.css](./boosts/claude-neutral.css) · [claude-neutral-darker.css](./boosts/claude-neutral-darker.css)
 
 ![claude-neutral-darker](./img/Claude-Neutral-Darker.png)
 
@@ -39,7 +39,7 @@ Claude Neutral removes the green-ish/yellow-ish tint from the original claude.ai
 
 Matches [Keymap Editor](https://github.com/nickcoutsos/keymap-editor) background to the Github Dark theme to improve the look of screenshots in repos.
 
-[keymap-editor-github-dark.css](./boosts/keymap-editor-github-dark.css)
+Last updated: 04-19-2024 | [keymap-editor-github-dark.css](./boosts/keymap-editor-github-dark.css)
 
 ![keymap-editor-github-dark](./img/Keymap-Editor-Github-Dark-1.png)
 
@@ -47,7 +47,7 @@ Matches [Keymap Editor](https://github.com/nickcoutsos/keymap-editor) background
 
 Changes the white global header to a dark grey and creates an even dark background for the site.
 
-[f1-tv-dark-fixes.css](./boosts/f1-tv-dark-fixes.css)
+Last updated: 08-30-2024 | [f1-tv-dark-fixes.css](./boosts/f1-tv-dark-fixes.css)
 
 ![f1-tv-dark-fixes](./img/F1-TV-Dark-Fixes.png)
 
