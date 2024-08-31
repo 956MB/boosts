@@ -41,3 +41,9 @@
 [data-theme="claude"] .code-block__code > * {
   background-color: #252525 !important;
 }
+
+span.token[style*="color: rgb(92, 99, 112)"][style*="font-style: italic"]:not(
+    [style*="font-weight:"]
+  ) {
+  color: #666666 !important;
+}
