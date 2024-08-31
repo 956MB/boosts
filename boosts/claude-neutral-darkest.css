@@ -1,5 +1,5 @@
-/* Claude Neutral (Darker) */
-/* https://github.com/956MB/boosts/blob/main/claude-neutral-darker.css */
+/* Claude Neutral (Darkest) */
+/* https://github.com/956MB/boosts/blob/main/claude-neutral-darkest.css */
 
 /* https://claude.ai/ */
 
@@ -21,23 +21,23 @@
 
 [data-mode="dark"] {
   color-scheme: dark !important;
-  --text-000: 0 0% 97.1% !important;
-  --text-100: 0 0% 94.9% !important;
-  --text-200: 0 0% 89.2% !important;
-  --text-300: 0 0% 79% !important;
-  --text-400: 0 0% 69.2% !important;
-  --text-500: 0 0% 62.9% !important;
-  --bg-000: 0 0% 15.4% !important;
-  --bg-100: 0 0% 12.5% !important;
-  --bg-200: 0 0% 11.3% !important;
-  --bg-300: 0 0% 8.4% !important;
-  --bg-400: 0 0% 6.4% !important;
-  --bg-500: 0 0% 3.9% !important;
+  --text-000: 0 0% 74.3% !important;
+  --text-100: 0 0% 72.6% !important;
+  --text-200: 0 0% 68.2% !important;
+  --text-300: 0 0% 60.5% !important;
+  --text-400: 0 0% 52.9% !important;
+  --text-500: 0 0% 48.2% !important;
+  --bg-000: 0 0% 11.8% !important;
+  --bg-100: 0 0% 9.5% !important;
+  --bg-200: 0 0% 8.6% !important;
+  --bg-300: 0 0% 6.4% !important;
+  --bg-400: 0 0% 4.9% !important;
+  --bg-500: 0 0% 3% !important;
 }
 
 [data-theme="claude"] .bg-\[\#282c34\],
 [data-theme="claude"] .code-block *,
 [data-theme="claude"] .code-block__code,
 [data-theme="claude"] .code-block__code > * {
-  background-color: #1d1d1d !important;
+  background-color: #181818 !important;
 }
