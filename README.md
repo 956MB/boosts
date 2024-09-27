@@ -1,7 +1,8 @@
 # Boosts
 
-*Boost process works as of **v1.39.0**. [Arc](https://arc.net/) could change how the boosts function at any time, they update often...*
+*Boost process works as of **v1.61.2**. [Arc](https://arc.net/) could change how the boosts function at any time, they update often...*
 
+* [Github Neutral VSCode](./boosts/github-neutral-vscode-syntax.css) / [Github Neutral Default](./boosts/github-neutral-default-syntax.css)
 * [Hugging Face Neutral](./boosts/hugging-face-neutral.css)
 * [Claude Neutral](./boosts/claude-neutral.css) / [Claude Neutral Darker](./boosts/claude-neutral-darker.css)
 * [Keymap Editor (nickcoutsos) Github Dark](./boosts/keymap-editor-github-dark.css)
@@ -18,6 +19,14 @@
 7. Paste the copied text into the `CSS` editor
 
 **DONE!**
+
+## Github Neutral
+
+I just don't like blue themes. The boost [github-neutral-vscode-syntax](./boosts/github-neutral-vscode-syntax.css) also implements the syntax highlighting colors from [VSCode](https://github.com/microsoft/vscode)'s default dark theme.
+
+Last updated: 09-27-2024 | [github-neutral-vscode-syntax](./boosts/github-neutral-vscode-syntax.css) · [github-neutral-default-syntax.css](./boosts/github-neutral-default-syntax.css)
+
+![Github-Neutral](./img/Github-Neutral.png)
 
 ## Hugging Face Neutral (WIP)
 

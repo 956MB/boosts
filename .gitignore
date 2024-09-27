@@ -1,3 +1,6 @@
-backup.css
-psd
 .DS_Store
+
+*.backup*
+backup.css
+
+psd
