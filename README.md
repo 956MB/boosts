@@ -40,7 +40,7 @@ Last updated: 08-30-2024 | [hugging-face-neutral.css](./boosts/hugging-face-neut
 
 Claude Neutral removes the green-ish/yellow-ish tint from the original claude.ai UI. Neutral greys only.
 
-Last updated: 08-31-2024 | [claude-neutral.css](./boosts/claude-neutral.css) · [claude-neutral-darker.css](./boosts/claude-neutral-darker.css) · [claude-neutral-darkest.css](./boosts/claude-neutral-darkest.css)
+Last updated: 10-06-2024 | [claude-neutral.css](./boosts/claude-neutral.css) · [claude-neutral-darker.css](./boosts/claude-neutral-darker.css) · [claude-neutral-darkest.css](./boosts/claude-neutral-darkest.css) · [claude-neutral-vscode](./boosts/claude-neutral-vscode.css) · [claude-neutral-darker-vscode](./boosts/claude-neutral-darker-vscode.css) · [claude-neutral-darkest-vscode](./boosts/claude-neutral-darkest-vscode.css)
 
 ![claude-neutral-darker](./img/Claude-Neutral-Darker.png)
 

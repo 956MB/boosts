@@ -3,4 +3,5 @@
 *.backup*
 backup.css
 
-psd
+test/
+psd/
