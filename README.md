@@ -15,7 +15,7 @@
 3. Click the `Site Control Center` button to the right of the URL bar
 4. Click `New Boost` button (the paint brush icon)
 5. Click `Code` button towards the bottom
-6. Copy the CSS from the corresponding boost (e.g. [claude-neutral.css](./boosts/claude-neutral.css))
+6. Copy the CSS from the corresponding boost (e.g. [claude-neutral](./boosts/claude-neutral.css))
 7. Paste the copied text into the `CSS` editor
 
 **DONE!**
@@ -24,7 +24,7 @@
 
 I just don't like blue themes. The boost [github-neutral-vscode-syntax](./boosts/github-neutral-vscode-syntax.css) also implements the syntax highlighting colors from [VSCode](https://github.com/microsoft/vscode)'s default dark theme.
 
-Last updated: 09-27-2024 | [github-neutral-vscode-syntax](./boosts/github-neutral-vscode-syntax.css) · [github-neutral-default-syntax.css](./boosts/github-neutral-default-syntax.css)
+Last updated: 09-27-2024 | [github-neutral-vscode-syntax](./boosts/github-neutral-vscode-syntax.css) · [github-neutral-default-syntax](./boosts/github-neutral-default-syntax.css)
 
 ![Github-Neutral](./img/Github-Neutral.png)
 
@@ -32,7 +32,7 @@ Last updated: 09-27-2024 | [github-neutral-vscode-syntax](./boosts/github-neutra
 
 Another Neutral modification, this time changing the [Hugging Face](https://huggingface.co/) ~~blue~~ dark theme to my favorite neutral greys an whites. All icons and accent colors are left unchanged. *Not 100% done, some small elements still have blue hover states and stuff. Is _mostly_ neutral though*.
 
-Last updated: 08-30-2024 | [hugging-face-neutral.css](./boosts/hugging-face-neutral.css)
+Last updated: 08-30-2024 | [hugging-face-neutral](./boosts/hugging-face-neutral.css)
 
 ![Hugging-Face-Neutral](./img/Hugging-Face-Neutral.png)
 
@@ -40,7 +40,7 @@ Last updated: 08-30-2024 | [hugging-face-neutral.css](./boosts/hugging-face-neut
 
 Claude Neutral removes the green-ish/yellow-ish tint from the original claude.ai UI. Neutral greys only.
 
-Last updated: 10-06-2024 | [claude-neutral.css](./boosts/claude-neutral.css) · [claude-neutral-darker.css](./boosts/claude-neutral-darker.css) · [claude-neutral-darkest.css](./boosts/claude-neutral-darkest.css) · [claude-neutral-vscode](./boosts/claude-neutral-vscode.css) · [claude-neutral-darker-vscode](./boosts/claude-neutral-darker-vscode.css) · [claude-neutral-darkest-vscode](./boosts/claude-neutral-darkest-vscode.css)
+Last updated: 10-06-2024 | [claude-neutral](./boosts/claude-neutral.css) · [claude-neutral-darker](./boosts/claude-neutral-darker.css) · [claude-neutral-darkest](./boosts/claude-neutral-darkest.css) · [claude-neutral-vscode](./boosts/claude-neutral-vscode.css) · [claude-neutral-darker-vscode](./boosts/claude-neutral-darker-vscode.css) · [claude-neutral-darkest-vscode](./boosts/claude-neutral-darkest-vscode.css)
 
 ![claude-neutral-darker](./img/Claude-Neutral-Darker.png)
 
@@ -48,7 +48,7 @@ Last updated: 10-06-2024 | [claude-neutral.css](./boosts/claude-neutral.css) · 
 
 Matches [Keymap Editor](https://github.com/nickcoutsos/keymap-editor) background to the Github Dark theme to improve the look of screenshots in repos.
 
-Last updated: 04-19-2024 | [keymap-editor-github-dark.css](./boosts/keymap-editor-github-dark.css)
+Last updated: 04-19-2024 | [keymap-editor-github-dark](./boosts/keymap-editor-github-dark.css)
 
 ![keymap-editor-github-dark](./img/Keymap-Editor-Github-Dark-1.png)
 
@@ -56,7 +56,7 @@ Last updated: 04-19-2024 | [keymap-editor-github-dark.css](./boosts/keymap-edito
 
 Changes the white global header to a dark grey and creates an even dark background for the site.
 
-Last updated: 08-30-2024 | [f1-tv-dark-fixes.css](./boosts/f1-tv-dark-fixes.css)
+Last updated: 08-30-2024 | [f1-tv-dark-fixes](./boosts/f1-tv-dark-fixes.css)
 
 ![f1-tv-dark-fixes](./img/F1-TV-Dark-Fixes.png)
 
