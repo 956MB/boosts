@@ -5,6 +5,7 @@
 * [Github Neutral VSCode](./boosts/github-neutral-vscode-syntax.css) / [Github Neutral Default](./boosts/github-neutral-default-syntax.css)
 * [Hugging Face Neutral](./boosts/hugging-face-neutral.css)
 * [Claude Neutral](./boosts/claude-neutral.css) / [Claude Neutral Darker](./boosts/claude-neutral-darker.css)
+* [Advent of Code](./boosts/aoc-neutral.css)
 * [Keymap Editor (nickcoutsos) Github Dark](./boosts/keymap-editor-github-dark.css)
 * [F1TV Dark Fixes](./boosts/f1tv-dark-fixes.css)
 
@@ -43,6 +44,12 @@ Claude Neutral removes the green-ish/yellow-ish tint from the original claude.ai
 Last updated: 10-06-2024 | [claude-neutral](./boosts/claude-neutral.css) · [claude-neutral-darker](./boosts/claude-neutral-darker.css) · [claude-neutral-darkest](./boosts/claude-neutral-darkest.css) · [claude-neutral-vscode](./boosts/claude-neutral-vscode.css) · [claude-neutral-darker-vscode](./boosts/claude-neutral-darker-vscode.css) · [claude-neutral-darkest-vscode](./boosts/claude-neutral-darkest-vscode.css)
 
 ![claude-neutral-darker](./img/Claude-Neutral-Darker.png)
+
+## Advent of Code Neutral
+
+Last updated: 11-29-2024 | [aoc-neutral](./boosts/aoc-neutral.css)
+
+![AoC-Neutral](./img/AoC-Neutral.png)
 
 ## Keymap Editor (nickcoutsos) Github Dark
 

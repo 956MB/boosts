@@ -1,0 +1,32 @@
+/* Advent of Code Neutral */
+/* https://github.com/956MB/boosts/blob/main/aoc-neutral.css */
+
+/* https://adventofcode.com/ */
+
+body {
+  background: #181818 !important;
+}
+
+code::before {
+  background: #151515 !important;
+}
+
+input[type="radio"] ~ span:hover,
+input[type="checkbox"] ~ span:hover,
+input[type="radio"] ~ span:focus,
+input[type="checkbox"] ~ span:focus {
+  background: #2a2a2a !important;
+}
+
+.stats > a:hover,
+.stats > a:focus {
+  background-color: #323232 !important;
+}
+
+.calendar a:hover {
+  background-color: rgba(142, 142, 142, 0.2) !important;
+}
+
+.stats-firstonly {
+  color: #b2b2b3 !important;
+}
