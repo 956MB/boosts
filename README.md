@@ -1,6 +1,6 @@
 # Boosts
 
-*Boost process works as of **v1.61.2**. [Arc](https://arc.net/) could change how the boosts function at any time, they update often...*
+*Boost process works as of **v1.70.0**. [Arc](https://arc.net/) could change how the boosts function at any time, they update often...*
 
 * [Github Neutral VSCode](./boosts/github-neutral-vscode-syntax.css) / [Github Neutral Default](./boosts/github-neutral-default-syntax.css)
 * [Hugging Face Neutral](./boosts/hugging-face-neutral.css)
