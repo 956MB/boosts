@@ -4,6 +4,7 @@
 /* https://github.com/ */
 
 [data-color-mode="dark"][data-dark-theme*="dark"] {
+  --page-header-bgColor: #121212 !important;
   --topicTag-borderColor: #00000000 !important;
   --highlight-neutral-bgColor: #b2b2b266 !important;
   --codeMirror-fgColor: #f2f2f2 !important;
@@ -78,6 +79,9 @@
   --counter-borderColor: #00000000 !important;
   --counter-bgColor-muted: #6b6b6b33 !important;
   --counter-bgColor-emphasis: #6b6b6b !important;
+  --button-danger-bgColor-rest: #292929 !important;
+  --button-danger-bgColor-disabled: #292929 !important;
+  --button-danger-borderColor-rest: #454545 !important;
   --button-default-fgColor-rest: #f2f2f2 !important;
   --button-default-bgColor-rest: #242424 !important;
   --button-default-bgColor-hover: #292929 !important;
@@ -154,6 +158,7 @@
   --bgColor-transparent: #00000000 !important;
   --bgColor-neutral-muted: #6b6b6b33 !important;
   --bgColor-neutral-emphasis: #6b6b6b !important;
+  --bgColor-accent-muted: #8d8d8d1a !important;
   --bgColor-closed-muted: #6b6b6b1a !important;
   --bgColor-closed-emphasis: #6b6b6b !important;
   --borderColor-default: #424242 !important;
@@ -163,12 +168,18 @@
   --borderColor-transparent: #00000000 !important;
   --borderColor-neutral-muted: #424242b3 !important;
   --borderColor-neutral-emphasis: #6b6b6b !important;
+  --borderColor-accent-muted: #8d8d8d66 !important;
   --borderColor-closed-muted: #42424266 !important;
   --borderColor-closed-emphasis: #6b6b6b !important;
   --color-ansi-black: #353535 !important;
   --color-ansi-black-bright: #6b6b6b !important;
   --color-ansi-white: #f2f2f2 !important;
   --color-ansi-gray: #6b6b6b !important;
+  --diffBlob-additionNum-bgColor: #58ff664d !important;
+  --diffBlob-additionLine-bgColor: #38fd5926 !important;
+  --diffBlob-hunkNum-bgColor-rest: #383839 !important;
+  --diffBlob-expander-iconColor: #999999 !important;
+  --diffBlob-additionWord-bgColor: #66fd3866 !important;
   --shadow-inset: inset 0px 1px 0px 0px #0303033d !important;
   --shadow-resting-xsmall: 0px 1px 0px 0px #030303cc !important;
   --shadow-resting-small: 0px 1px 0px 0px #03030366 !important;
