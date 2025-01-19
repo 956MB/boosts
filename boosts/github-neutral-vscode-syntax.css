@@ -260,3 +260,7 @@
   --color-scale-gray-8: #1c1c1c !important;
   --color-scale-gray-9: #111111 !important;
 }
+
+.markdown-body hr {
+  height: 0.1em !important;
+}
