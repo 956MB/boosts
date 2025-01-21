@@ -245,5 +245,9 @@
 }
 
 .markdown-body hr {
-  height: 0.1em !important;
+  height: 1px !important;
+  background-color: var(
+    --borderColor-muted,
+    var(--color-border-muted)
+  ) !important;
 }
