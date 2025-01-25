@@ -256,3 +256,8 @@
 .eBevHz {
   box-shadow: none !important;
 }
+
+.IssueTypeToken-module__token--iQHKj[data-color="blue" i] {
+  background: #131d2e !important;
+  border-color: #234981 !important;
+}
