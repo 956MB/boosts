@@ -268,3 +268,8 @@
     var(--color-border-muted)
   ) !important;
 }
+
+.durGbC,
+.eBevHz {
+  box-shadow: none !important;
+}
