@@ -1,0 +1,38 @@
+/* Kagi Search */
+/* https://github.com/956MB/boosts/blob/main/kagi.css */
+
+/* https://kagi.com/ */
+
+:root {
+  --color-search-input: var(--graphite-900) !important;
+}
+
+.__sri-title .__sri_title_link,
+.__srgi-title a,
+#quickPeekResults .inlineHeader,
+#quickPeekResults details {
+  border-bottom: 1px solid var(--primary-200) !important;
+}
+
+body,
+html {
+  background: #181818 !important;
+}
+
+.search-form .search-input-container {
+  min-height: 48px !important;
+}
+
+.__sri-time {
+  background-color: var(--graphite-900) !important;
+}
+
+#help_modal,
+.k-ui-modal.__dark {
+  opacity: 1 !important;
+  background-color: #1d1d1d !important;
+}
+
+#help_modal .section-title {
+  border-bottom: 1px solid var(--primary-200) !important;
+}

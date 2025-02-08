@@ -1,7 +1,8 @@
 # Boosts
 
-*Boost process works as of **v1.78.1**. [Arc](https://arc.net/) could change how the boosts function at any time, they update often...*
+*Boost process works as of **v1.79.1**. [Arc](https://arc.net/) could change how the boosts function at any time, they update often...*
 
+* [Kagi](./boosts/kagi.css)
 * [Github Neutral VSCode](./boosts/github-neutral-vscode-syntax.css) / [Github Neutral Default](./boosts/github-neutral-default-syntax.css)
 * [Hugging Face Neutral](./boosts/hugging-face-neutral.css)
 * [Claude Neutral](./boosts/claude-neutral.css) / [Claude Neutral Darker](./boosts/claude-neutral-darker.css)
