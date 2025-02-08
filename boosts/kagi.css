@@ -36,3 +36,7 @@ html {
 #help_modal .section-title {
   border-bottom: 1px solid var(--primary-200) !important;
 }
+
+.app-logo svg {
+  color: var(--kagi-graphite-ia) !important;
+}
