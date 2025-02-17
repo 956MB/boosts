@@ -10,7 +10,7 @@
 * [Hugging Face](./boosts/hugging-face-neutral.css)
 * [Claude](./boosts/claude-neutral.css) / [Claude (Darker)](./boosts/claude-neutral-darker.css)
 * [Advent of Code](./boosts/aoc-neutral.css)
-* [Keymap Editor (nickcoutsos) Github Dark](./boosts/keymap-editor-github-dark.css)
+* [Keymap Editor (nickcoutsos)](./boosts/keymap-editor-github-dark.css)
 * [F1TV](./boosts/f1tv-dark-fixes.css)
 * [Kagi](./boosts/kagi.css)
 
