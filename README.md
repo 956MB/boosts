@@ -3,7 +3,7 @@
 *Boost process works as of **v1.82.1**. [Arc](https://arc.net/) could change how the boosts function at any time, they update often...*
 
 > [!WARNING]
-> *These boosts are made based on my own tastes first and foremost, and they are by no means "comprehensive". I usually go about my business on whatever site I'm on, and if I see something is wrong or missing from a boost, I add it. If you for some reason use any of these and notice something wrong or missing, you can let me know with an [issue](https://github.com/956MB/boosts/issues) or [PR](https://github.com/956MB/boosts/pulls).
+> These boosts are made based on my own tastes first and foremost, and they are by no means "comprehensive". If I see something is wrong or missing from a boost, I add it. If you for some reason use any of these and notice something wrong or missing, you can let me know with an [issue](https://github.com/956MB/boosts/issues) or [PR](https://github.com/956MB/boosts/pulls).
 
 * [Github](./boosts/github-neutral-default-syntax.css) / [Github (VSCode Syntax)](./boosts/github-neutral-vscode-syntax.css)
 * [Reddit](./boosts/reddit-neutral.css)
