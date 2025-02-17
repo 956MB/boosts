@@ -15,7 +15,9 @@
 }
 
 body,
-html {
+html,
+#settings-menu,
+.cheatsh .cheatsh_content {
   background: #181818 !important;
 }
 

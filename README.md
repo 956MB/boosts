@@ -1,14 +1,18 @@
 # Boosts
 
-*Boost process works as of **v1.79.1**. [Arc](https://arc.net/) could change how the boosts function at any time, they update often...*
+*Boost process works as of **v1.82.1**. [Arc](https://arc.net/) could change how the boosts function at any time, they update often...*
 
-* [Kagi](./boosts/kagi.css)
-* [Github Neutral VSCode](./boosts/github-neutral-vscode-syntax.css) / [Github Neutral Default](./boosts/github-neutral-default-syntax.css)
-* [Hugging Face Neutral](./boosts/hugging-face-neutral.css)
-* [Claude Neutral](./boosts/claude-neutral.css) / [Claude Neutral Darker](./boosts/claude-neutral-darker.css)
+> [!WARNING]
+> *These boosts are made based on my own tastes first and foremost, and they are by no means "comprehensive". I usually go about my business on whatever site I'm on, and if I see something is wrong or missing from a boost, I add it. If you for some reason use any of these and notice something wrong or missing, you can let me know with an [issue](https://github.com/956MB/boosts/issues) or [PR](https://github.com/956MB/boosts/pulls).
+
+* [Github](./boosts/github-neutral-default-syntax.css) / [Github (VSCode Syntax)](./boosts/github-neutral-vscode-syntax.css)
+* [Reddit](./boosts/reddit-neutral.css)
+* [Hugging Face](./boosts/hugging-face-neutral.css)
+* [Claude](./boosts/claude-neutral.css) / [Claude (Darker)](./boosts/claude-neutral-darker.css)
 * [Advent of Code](./boosts/aoc-neutral.css)
 * [Keymap Editor (nickcoutsos) Github Dark](./boosts/keymap-editor-github-dark.css)
-* [F1TV Dark Fixes](./boosts/f1tv-dark-fixes.css)
+* [F1TV](./boosts/f1tv-dark-fixes.css)
+* [Kagi](./boosts/kagi.css)
 
 # Adding boosts
 
@@ -22,15 +26,21 @@
 
 **DONE!**
 
-## Github Neutral
+## Github
 
 I just don't like blue themes. The boost [github-neutral-vscode-syntax](./boosts/github-neutral-vscode-syntax.css) also implements the syntax highlighting colors from [VSCode](https://github.com/microsoft/vscode)'s default dark theme.
 
-Last updated: 01-25-2024 | [github-neutral-vscode-syntax](./boosts/github-neutral-vscode-syntax.css) · [github-neutral-default-syntax](./boosts/github-neutral-default-syntax.css)
+Last updated: 01-25-2025 | [github-neutral-vscode-syntax](./boosts/github-neutral-vscode-syntax.css) · [github-neutral-default-syntax](./boosts/github-neutral-default-syntax.css)
 
 ![Github-Neutral](./img/Github-Neutral.png)
 
-## Hugging Face Neutral (WIP)
+## Reddit
+
+Last updated: 02-17-2025 | [reddit-neutral](./boosts/reddit-neutral.css)
+
+![Reddit-Neutral](./img/Reddit-Neutral.png)
+
+## Hugging Face (WIP)
 
 Another Neutral modification, this time changing the [Hugging Face](https://huggingface.co/) ~~blue~~ dark theme to my favorite neutral greys an whites. All icons and accent colors are left unchanged. *Not 100% done, some small elements still have blue hover states and stuff. Is _mostly_ neutral though*.
 
@@ -38,7 +48,7 @@ Last updated: 08-30-2024 | [hugging-face-neutral](./boosts/hugging-face-neutral.
 
 ![Hugging-Face-Neutral](./img/Hugging-Face-Neutral.png)
 
-## Claude Neutral
+## Claude
 
 Claude Neutral removes the green-ish/yellow-ish tint from the original claude.ai UI. Neutral greys only.
 
@@ -46,13 +56,13 @@ Last updated: 10-06-2024 | [claude-neutral](./boosts/claude-neutral.css) · [cla
 
 ![claude-neutral-darker](./img/Claude-Neutral-Darker.png)
 
-## Advent of Code Neutral
+## Advent of Code
 
 Last updated: 11-29-2024 | [aoc-neutral](./boosts/aoc-neutral.css)
 
 ![AoC-Neutral](./img/AoC-Neutral.png)
 
-## Keymap Editor (nickcoutsos) Github Dark
+## Keymap Editor (nickcoutsos)
 
 Matches [Keymap Editor](https://github.com/nickcoutsos/keymap-editor) background to the Github Dark theme to improve the look of screenshots in repos.
 
@@ -60,7 +70,7 @@ Last updated: 04-19-2024 | [keymap-editor-github-dark](./boosts/keymap-editor-gi
 
 ![keymap-editor-github-dark](./img/Keymap-Editor-Github-Dark-1.png)
 
-## F1 TV Dark Fixes
+## F1 TV
 
 Changes the white global header to a dark grey and creates an even dark background for the site.
 
