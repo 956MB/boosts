@@ -52,7 +52,10 @@ Last updated: 08-30-2024 | [hugging-face-neutral](./boosts/hugging-face-neutral.
 
 Claude Neutral removes the green-ish/yellow-ish tint from the original claude.ai UI. Neutral greys only.
 
-Last updated: 10-06-2024 | [claude-neutral](./boosts/claude-neutral.css) · [claude-neutral-darker](./boosts/claude-neutral-darker.css) · [claude-neutral-darkest](./boosts/claude-neutral-darkest.css) · [claude-neutral-vscode](./boosts/claude-neutral-vscode.css) · [claude-neutral-darker-vscode](./boosts/claude-neutral-darker-vscode.css) · [claude-neutral-darkest-vscode](./boosts/claude-neutral-darkest-vscode.css)
+Last updated: 02-25-2025 | [claude-neutral](./boosts/claude-neutral.css) · [claude-neutral-darker](./boosts/claude-neutral-darker.css) · [claude-neutral-darkest](./boosts/claude-neutral-darkest.css) · [claude-neutral-vscode](./boosts/claude-neutral-vscode.css) · [claude-neutral-darker-vscode](./boosts/claude-neutral-darker-vscode.css) · [claude-neutral-darkest-vscode](./boosts/claude-neutral-darkest-vscode.css)
+
+> ![WARNING]
+> Claude has changed the way the code blocks tokens are rendered, so the VSCode syntax highlighting may not be 100% accurate anymore. It has gotten more complex, and I haven't taken the time to update it with all the new/correct colors.
 
 ![claude-neutral-darker](./img/Claude-Neutral-Darker.png)
 

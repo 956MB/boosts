@@ -35,10 +35,14 @@
   --bg-500: 0 0% 3.9% !important;
 }
 
-[data-theme="claude"] .bg-\[\#282c34\],
-[data-theme="claude"] .code-block *,
-[data-theme="claude"] .code-block__code,
-[data-theme="claude"] .code-block__code > * {
+.prismjs.code-block__code,
+code[class*="language-"],
+.code-block__code[style*="background"],
+.code-block__code[style],
+.code-block__code[style] code,
+.code-block__code code[style],
+.code-block__code * {
+  background: #1d1d1d !important;
   background-color: #1d1d1d !important;
 }
 
@@ -75,53 +79,53 @@ span.token[style*="color: rgb(209, 154, 102)"] {
   color: #c586c0 !important;
 }
 
-.hljs-comment,
-.hljs-quote {
+.comment,
+.quote {
   color: #666666 !important;
 }
-.hljs-doctag,
-.hljs-formula,
-.hljs-keyword {
+.doctag,
+.formula,
+.keyword {
   color: #569cd6 !important;
 }
-.hljs-deletion,
-.hljs-name,
-.hljs-section,
-.hljs-selector-tag,
-.hljs-meta,
-.hljs-subst {
+.deletion,
+.name,
+.section,
+.selector-tag,
+.meta,
+.subst {
   color: #569cd6 !important;
 }
-.hljs-literal {
+.literal {
   color: #56b6c2 !important;
 }
-.hljs-addition,
-.hljs-attribute,
-.hljs-meta-string,
-.hljs-regexp,
-.hljs-string {
+.addition,
+.attribute,
+.meta-string,
+.regexp,
+.string {
   color: #ce9178 !important;
 }
-.hljs-built_in,
-.hljs-class .hljs-title {
+.built_in,
+.class .title {
   color: #4ec9b0 !important;
 }
-.hljs-number {
+.number {
   color: var(--text-300) !important;
 }
-.hljs-attr,
-.hljs-selector-attr,
-.hljs-selector-class,
-.hljs-selector-pseudo,
-.hljs-template-variable,
-.hljs-type,
-.hljs-variable {
+.attr,
+.selector-attr,
+.selector-class,
+.selector-pseudo,
+.template-variable,
+.type,
+.variable {
   color: #d7ba7d !important;
 }
-.hljs-bullet,
-.hljs-link,
-.hljs-selector-id,
-.hljs-symbol,
-.hljs-title {
+.bullet,
+.link,
+.selector-id,
+.symbol,
+.title {
   color: #dcdcaa !important;
 }

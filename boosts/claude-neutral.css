@@ -35,10 +35,14 @@
   --bg-500: 0 0% 5.5% !important;
 }
 
-[data-theme="claude"] .bg-\[\#282c34\],
-[data-theme="claude"] .code-block *,
-[data-theme="claude"] .code-block__code,
-[data-theme="claude"] .code-block__code > * {
+.prismjs.code-block__code,
+code[class*="language-"],
+.code-block__code[style*="background"],
+.code-block__code[style],
+.code-block__code[style] code,
+.code-block__code code[style],
+.code-block__code * {
+  background: #252525 !important;
   background-color: #252525 !important;
 }
 
