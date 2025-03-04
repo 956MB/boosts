@@ -8,7 +8,7 @@
 * [Github](./boosts/github-neutral-default-syntax.css) / [Github (VSCode Syntax)](./boosts/github-neutral-vscode-syntax.css)
 * [Reddit](./boosts/reddit-neutral.css)
 * [Hugging Face](./boosts/hugging-face-neutral.css)
-* [Claude](./boosts/claude-neutral.css) / [Claude (Darker)](./boosts/claude-neutral-darker.css)
+* [Claude](./boosts/claude-neutral.css) / [Claude (Darker)](./boosts/claude-neutral-darker.css) / [Claude (Darkest)](./boosts/claude-neutral-darkest.css)
 * [Advent of Code](./boosts/aoc-neutral.css)
 * [Keymap Editor (nickcoutsos)](./boosts/keymap-editor-github-dark.css)
 * [F1TV](./boosts/f1tv-dark-fixes.css)
