@@ -30,7 +30,7 @@
 
 I just don't like blue themes. The boost [github-neutral-vscode-syntax](./boosts/github-neutral-vscode-syntax.css) also implements the syntax highlighting colors from [VSCode](https://github.com/microsoft/vscode)'s default dark theme.
 
-Last updated: 01-25-2025 | [github-neutral-vscode-syntax](./boosts/github-neutral-vscode-syntax.css) · [github-neutral-default-syntax](./boosts/github-neutral-default-syntax.css)
+Last updated: 03-25-2025 | [github-neutral-vscode-syntax](./boosts/github-neutral-vscode-syntax.css) · [github-neutral-default-syntax](./boosts/github-neutral-default-syntax.css)
 
 ![Github-Neutral](./img/Github-Neutral.png)
 
