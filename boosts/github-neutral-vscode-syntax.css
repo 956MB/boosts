@@ -150,8 +150,9 @@
   --skeletonLoader-bgColor: #1a1a1a !important;
   --timelineBadge-bgColor: #242424 !important;
   --treeViewItem-leadingVisual-iconColor-rest: #959595 !important;
-  --underlineNav-borderColor-hover: #424242b3 !important;
-  --underlineNav-iconColor-rest: #959595 !important;
+  --underlineNav-borderColor-active: #4493f8 !important;
+  --underlineNav-borderColor-hover: #d0d0d0b3 !important;
+  --underlineNav-iconColor-rest: #666666 !important;
   --card-bgColor: #1a1a1a !important;
   --label-gray-bgColor-rest: #1c1c1c !important;
   --label-gray-bgColor-hover: #2b2b2b !important;
