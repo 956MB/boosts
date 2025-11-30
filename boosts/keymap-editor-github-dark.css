@@ -4,29 +4,29 @@
 /* https://nickcoutsos.github.io/keymap-editor/ */
 
 body[data-theme="dark"] {
-  --bg: #0d1116 !important;
-  --bg-rgb: #0d1116 !important;
-  --dialog-bg: #141a22 !important;
-  --key-bg-base: #1f2432 !important;
+	--bg: #0d1116 !important;
+	--bg-rgb: #0d1116 !important;
+	--dialog-bg: #141a22 !important;
+	--key-bg-base: #1f2432 !important;
 }
 @media (prefers-color-scheme: dark) {
-  body[data-theme="system"] {
-    --bg: #0d1116 !important;
-    --bg-rgb: #0d1116 !important;
-    --dialog-bg: #141a22 !important;
-    --key-bg-base: #1f2432 !important;
-  }
+	body[data-theme="system"] {
+		--bg: #0d1116 !important;
+		--bg-rgb: #0d1116 !important;
+		--dialog-bg: #141a22 !important;
+		--key-bg-base: #1f2432 !important;
+	}
 }
 
 [data-theme="dark"] #modal-root > div {
-  background-color: rgba(52, 62, 82, 0.39) !important;
+	background-color: rgba(52, 62, 82, 0.39) !important;
 }
 @media (prefers-color-scheme: dark) {
-  [data-theme="system"] #modal-root > div {
-    background-color: rgba(52, 62, 82, 0.39) !important;
-  }
+	[data-theme="system"] #modal-root > div {
+		background-color: rgba(52, 62, 82, 0.39) !important;
+	}
 }
 
 .ZpdcqlK42OntJos3eGw0 > div {
-  width: auto !important;
+	width: auto !important;
 }

@@ -1,0 +1,442 @@
+/* Codeberg Gitea Neutral Darker (VSCode Syntax) */
+/* https://github.com/956MB/boosts/blob/main/codeberg-gitea-neutral-darker-vscode.css */
+
+/* https://codeberg.org/ */
+
+:root {
+	--color-secondary: #424242 !important;
+	--color-secondary-dark-1: #4a4a4a !important;
+	--color-secondary-dark-2: #535353 !important;
+	--color-secondary-dark-3: #636363 !important;
+	--color-secondary-dark-4: #767676 !important;
+	--color-secondary-dark-5: #848484 !important;
+	--color-secondary-dark-6: #929292 !important;
+	--color-secondary-dark-7: #9e9e9e !important;
+	--color-secondary-dark-8: #acacac !important;
+	--color-secondary-dark-9: #b5b5b5 !important;
+	--color-secondary-dark-10: #c0c0c0 !important;
+	--color-secondary-dark-11: #cccccc !important;
+	--color-secondary-dark-12: #d6d6d6 !important;
+	--color-secondary-dark-13: #d9d9d9 !important;
+	--color-secondary-light-1: #353535 !important;
+	--color-secondary-light-2: #353535 !important;
+	--color-secondary-light-3: #222222 !important;
+	--color-secondary-light-4: #1b1b1b !important;
+	--color-secondary-alpha-10: #42424219 !important;
+	--color-secondary-alpha-20: #42424233 !important;
+	--color-secondary-alpha-30: #4242424b !important;
+	--color-secondary-alpha-40: #42424266 !important;
+	--color-secondary-alpha-50: #42424280 !important;
+	--color-secondary-alpha-60: #42424299 !important;
+	--color-secondary-alpha-70: #424242b3 !important;
+	--color-secondary-alpha-80: #424242cc !important;
+	--color-secondary-alpha-90: #424242e1 !important;
+	--color-console-fg: #f8f8f9 !important;
+	--color-console-fg-subtle: #c4c4c4 !important;
+	--color-console-bg: #1b1b1b !important;
+	--color-console-border: #353535 !important;
+	--color-console-hover-bg: #2d2d2d !important;
+	--color-console-active-bg: #353535 !important;
+	--color-console-menu-bg: #2b2b2b !important;
+	--color-console-menu-border: #4a4a4a !important;
+	--color-grey: #414141 !important;
+	--color-grey-light: #8f8f8f !important;
+	--color-body: #171717 !important;
+	--color-box-header: #1d1d1d !important;
+	--color-box-body: #171717 !important;
+	--color-box-body-highlight: #222222 !important;
+	--color-text-dark: #f8f8f9 !important;
+	--color-text: #d5d5d5 !important;
+	--color-text-light: #c3c3c3 !important;
+	--color-text-light-1: #afafaf !important;
+	--color-text-light-2: #9b9b9b !important;
+	--color-text-light-3: #878787 !important;
+	--color-footer: var(--color-nav-bg) !important;
+	--color-timeline: #3c3c3c !important;
+	--color-input-text: var(--color-text-dark) !important;
+	--color-input-background: #1a1a1a !important;
+	--color-input-toggle-background: #353535 !important;
+	--color-input-border: var(--color-secondary) !important;
+	--color-input-border-hover: var(--color-secondary-dark-1) !important;
+	--color-light: #00000028 !important;
+	--color-light-mimic-enabled: rgba(
+		0,
+		0,
+		0,
+		calc(40 / 255 * 222 / 255 / var(--opacity-disabled))
+	) !important;
+	--color-light-border: #e8e8e828 !important;
+	--color-hover: #e8e8e819 !important;
+	--color-active: #3b3b3b !important;
+	--color-menu: #1a1a1a !important;
+	--color-card: #1a1a1a !important;
+	--fancy-card-bg: #171717 !important;
+	--fancy-card-border: #424242 !important;
+	--color-markup-table-row: #6b6b6b12 !important;
+	--color-markup-code-block: #6b6b6b12 !important;
+	--color-markup-code-inline: #6b6b6b12 !important;
+	--color-button: #1a1a1a !important;
+	--color-code-bg: #171717 !important;
+	--color-shadow: #00000058 !important;
+	--color-secondary-bg: #313131 !important;
+	--color-expand-button: #353535 !important;
+	--color-placeholder-text: var(--color-text-light-3) !important;
+	--color-editor-line-highlight: var(--color-primary-light-5) !important;
+	--color-project-column-bg: var(--color-secondary-light-2) !important;
+	--color-caret: var(--color-text) !important;
+	--color-reaction-bg: #e8e8e812 !important;
+	--color-reaction-hover-bg: var(--color-primary-light-4) !important;
+	--color-reaction-active-bg: var(--color-primary-light-5) !important;
+	--color-tooltip-text: #fafafb !important;
+	--color-tooltip-bg: #000000f0 !important;
+	--color-nav-bg: #171717 !important;
+	--color-nav-hover-bg: var(--color-secondary-light-1) !important;
+	--color-nav-text: var(--color-text) !important;
+	--color-secondary-nav-bg: #171717 !important;
+	--color-label-text: var(--color-text) !important;
+	--color-label-bg: #828e8e4b !important;
+	--color-label-hover-bg: #828e8ea0 !important;
+	--color-label-active-bg: #828e8eff !important;
+	--color-accent: var(--color-primary-light-1) !important;
+	--color-small-accent: var(--color-primary-light-5) !important;
+	--color-highlight-fg: #87651e !important;
+	--color-highlight-bg: #352c1c !important;
+	--color-overlay-backdrop: #080808c0 !important;
+	--checkerboard-color-1: #313131 !important;
+	--checkerboard-color-2: #212121 !important;
+}
+
+.chroma .bp {
+	color: #dcdcaa !important;
+}
+
+.chroma .c,
+.chroma .c1,
+.chroma .ch,
+.chroma .cm {
+	color: #6b6b6b !important;
+}
+
+.chroma .cp {
+	color: #4ec9b0 !important;
+}
+
+.chroma .cpf {
+	color: #79c0ff !important;
+}
+
+.chroma .cs {
+	color: #c586c0 !important;
+}
+
+.chroma .dl {
+	color: #ce9178 !important;
+}
+
+.chroma .gd {
+	color: #fff !important;
+	background-color: #5f3737 !important;
+}
+
+.chroma .ge {
+	color: #dcdcaa !important;
+}
+
+.chroma .gh {
+	color: #dcdcaa !important;
+}
+
+.chroma .gi {
+	color: #fff !important;
+	background-color: #3a523a !important;
+}
+
+.chroma .go {
+	color: #6b6b6b !important;
+}
+
+.chroma .gp {
+	color: #dcdcaa !important;
+}
+
+.chroma .gr {
+	color: #f43 !important;
+}
+
+.chroma .gs {
+	color: #dcdcaa !important;
+}
+
+.chroma .gt {
+	color: #c586c0 !important;
+}
+
+.chroma .gu {
+	color: #ce9178 !important;
+}
+
+.chroma .il {
+	color: #dcdcaa !important;
+}
+
+.chroma .k {
+	color: #c586c0 !important;
+}
+
+.chroma .kc {
+	color: #dcdcaa !important;
+}
+
+.chroma .kd {
+	color: #c586c0 !important;
+}
+
+.chroma .kn {
+	color: #c586c0 !important;
+}
+
+.chroma .kp {
+	color: #c586c0 !important;
+}
+
+.chroma .kr {
+	color: #c586c0 !important;
+}
+
+.chroma .kt {
+	color: #4ec9b0 !important;
+}
+
+.chroma .m,
+.chroma .mb,
+.chroma .mf,
+.chroma .mh,
+.chroma .mi,
+.chroma .mo {
+	color: #dcdcaa !important;
+}
+
+.chroma .n {
+	color: #c9d1d9 !important;
+}
+
+.chroma .na,
+.chroma .nb {
+	color: #dcdcaa !important;
+}
+
+.chroma .nc {
+	color: #4ec9b0 !important;
+}
+
+.chroma .nd {
+	color: #dcdcaa !important;
+}
+
+.chroma .ne {
+	color: #4ec9b0 !important;
+}
+
+.chroma .nf,
+.chroma .ni {
+	color: #dcdcaa !important;
+}
+
+.chroma .nl {
+	color: #c586c0 !important;
+}
+
+.chroma .nn {
+	color: #4ec9b0 !important;
+}
+
+.chroma .no {
+	color: #dcdcaa !important;
+}
+
+.chroma .nt {
+	color: #79c0ff !important;
+}
+
+.chroma .nv {
+	color: #4ec9b0 !important;
+}
+
+.chroma .nx {
+	color: #b6bac5 !important;
+}
+
+.chroma .o {
+	color: #c586c0 !important;
+}
+
+.chroma .ow {
+	color: #c586c0 !important;
+}
+
+.chroma .p {
+	color: #d2d4db !important;
+}
+
+.chroma .s,
+.chroma .s1,
+.chroma .s2 {
+	color: #ce9178 !important;
+}
+
+.chroma .sa {
+	color: #ce9178 !important;
+}
+
+.chroma .sb {
+	color: #ce9178 !important;
+}
+
+.chroma .sc {
+	color: #ce9178 !important;
+}
+
+.chroma .sd {
+	color: #ce9178 !important;
+}
+
+.chroma .se {
+	color: #ce9178 !important;
+}
+
+.chroma .sh {
+	color: #ce9178 !important;
+}
+
+.chroma .si {
+	color: #ce9178 !important;
+}
+
+.chroma .sr {
+	color: #ce9178 !important;
+}
+
+.chroma .ss {
+	color: #ce9178 !important;
+}
+
+.chroma .sx {
+	color: #ce9178 !important;
+}
+
+.chroma .vc,
+.chroma .vg,
+.chroma .vi {
+	color: #4ec9b0 !important;
+}
+
+.chroma .w {
+	color: #6b6b6b !important;
+}
+
+.CodeMirror.cm-s-default .cm-property,
+.CodeMirror.cm-s-paper .cm-property {
+	color: #4ec9b0 !important;
+}
+
+.CodeMirror.cm-s-default .cm-header,
+.CodeMirror.cm-s-paper .cm-header {
+	color: #79c0ff !important;
+}
+
+.CodeMirror.cm-s-default .cm-quote,
+.CodeMirror.cm-s-paper .cm-quote {
+	color: #6b6b6b !important;
+}
+
+.CodeMirror.cm-s-default .cm-keyword,
+.CodeMirror.cm-s-paper .cm-keyword {
+	color: #c586c0 !important;
+}
+
+.CodeMirror.cm-s-default .cm-atom,
+.CodeMirror.cm-s-paper .cm-atom {
+	color: #dcdcaa !important;
+}
+
+.CodeMirror.cm-s-default .cm-number,
+.CodeMirror.cm-s-paper .cm-number {
+	color: #dcdcaa !important;
+}
+
+.CodeMirror.cm-s-default .cm-def,
+.CodeMirror.cm-s-paper .cm-def {
+	color: #dcdcaa !important;
+}
+
+.CodeMirror.cm-s-default .cm-variable-2,
+.CodeMirror.cm-s-paper .cm-variable-2 {
+	color: #4ec9b0 !important;
+}
+
+.CodeMirror.cm-s-default .cm-variable-3,
+.CodeMirror.cm-s-paper .cm-variable-3 {
+	color: #4ec9b0 !important;
+}
+
+.CodeMirror.cm-s-default .cm-comment,
+.CodeMirror.cm-s-paper .cm-comment {
+	color: #6b6b6b !important;
+}
+
+.CodeMirror.cm-s-default .cm-string,
+.CodeMirror.cm-s-paper .cm-string {
+	color: #ce9178 !important;
+}
+
+.CodeMirror.cm-s-default .cm-string-2,
+.CodeMirror.cm-s-paper .cm-string-2 {
+	color: #ce9178 !important;
+}
+
+.CodeMirror.cm-s-default .cm-meta,
+.CodeMirror.cm-s-paper .cm-meta,
+.CodeMirror.cm-s-default .cm-qualifier,
+.CodeMirror.cm-s-paper .cm-qualifier {
+	color: #dcdcaa !important;
+}
+
+.CodeMirror.cm-s-default .cm-builtin,
+.CodeMirror.cm-s-paper .cm-builtin {
+	color: #79c0ff !important;
+}
+
+.CodeMirror.cm-s-default .cm-bracket,
+.CodeMirror.cm-s-paper .cm-bracket {
+	color: #d2d4db !important;
+}
+
+.CodeMirror.cm-s-default .cm-tag,
+.CodeMirror.cm-s-paper .cm-tag {
+	color: #79c0ff !important;
+}
+
+.CodeMirror.cm-s-default .cm-attribute,
+.CodeMirror.cm-s-paper .cm-attribute {
+	color: #79c0ff !important;
+}
+
+.CodeMirror.cm-s-default .cm-hr,
+.CodeMirror.cm-s-paper .cm-hr {
+	color: #999 !important;
+}
+
+.CodeMirror.cm-s-default .cm-url,
+.CodeMirror.cm-s-paper .cm-url {
+	color: #ce9178 !important;
+}
+
+.CodeMirror.cm-s-default .cm-link,
+.CodeMirror.cm-s-paper .cm-link {
+	color: #79c0ff !important;
+}
+
+.CodeMirror.cm-s-default .cm-error,
+.CodeMirror.cm-s-paper .cm-error {
+	color: #dbdbeb !important;
+}

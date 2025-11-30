@@ -7,22 +7,22 @@
 :root:not(.theme-light).theme-beta,
 :root:not(.theme-light) .theme-rpl,
 :root:not(.theme-light).theme-rpl {
-  --color-secondary: #dbdbdb !important;
-  --color-secondary-background: #2a2a2a !important;
-  --color-secondary-background-hover: #333333 !important;
-  --color-secondary-background-selected: #3d3d3d !important;
-  --color-button-secondary-background: #2b2b2b !important;
-  --color-neutral-background: #0f0f0f !important;
-  --color-neutral-background-hover: #181818 !important;
-  --color-neutral-background-pinned: #0e0e0e !important;
-  --color-neutral-background-selected: #2a2a2a !important;
-  --color-neutral-background-strong: #181818 !important;
-  --color-neutral-background-strong-hover: #212121 !important;
-  --color-neutral-background-weak-hover: #0e0e0e !important;
-  --color-secondary-plain: #dbdbdb !important;
-  --color-secondary-plain-weak: #8b8b8b !important;
-  --color-secondary-weak: #747474 !important;
-  --color-neutral-content: #b7b7b7 !important;
-  --color-neutral-content-weak: #8b8b8b !important;
-  --color-neutral-content-strong: #eeeeee !important;
+	--color-secondary: #dbdbdb !important;
+	--color-secondary-background: #2a2a2a !important;
+	--color-secondary-background-hover: #333333 !important;
+	--color-secondary-background-selected: #3d3d3d !important;
+	--color-button-secondary-background: #2b2b2b !important;
+	--color-neutral-background: #0f0f0f !important;
+	--color-neutral-background-hover: #181818 !important;
+	--color-neutral-background-pinned: #0e0e0e !important;
+	--color-neutral-background-selected: #2a2a2a !important;
+	--color-neutral-background-strong: #181818 !important;
+	--color-neutral-background-strong-hover: #212121 !important;
+	--color-neutral-background-weak-hover: #0e0e0e !important;
+	--color-secondary-plain: #dbdbdb !important;
+	--color-secondary-plain-weak: #8b8b8b !important;
+	--color-secondary-weak: #747474 !important;
+	--color-neutral-content: #b7b7b7 !important;
+	--color-neutral-content-weak: #8b8b8b !important;
+	--color-neutral-content-strong: #eeeeee !important;
 }

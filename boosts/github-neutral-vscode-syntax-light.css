@@ -1,5 +1,5 @@
-/* Github Neutral Light (default syntax) */
-/* https://github.com/956MB/boosts/blob/main/github-neutral-default-syntax-light.css */
+/* Github Neutral Light (VSCode syntax) */
+/* https://github.com/956MB/boosts/blob/main/github-neutral-vscode-syntax-light.css */
 
 /* https://*.github.com/ */
 
@@ -19,6 +19,23 @@
 	--codeMirror-activeline-bgColor: #8a8a8a33 !important;
 	--codeMirror-matchingBracket-fgColor: #1f1f1f !important;
 	--codeMirror-lines-bgColor: #ffffff !important;
+	--codeMirror-syntax-fgColor-comment: #6b6b6b !important;
+	--codeMirror-syntax-fgColor-constant: #dcdcaa !important;
+	--codeMirror-syntax-fgColor-entity: #dcdcaa !important;
+	--codeMirror-syntax-fgColor-keyword: #c586c0 !important;
+	--codeMirror-syntax-fgColor-storage: #4ec9b0 !important;
+	--codeMirror-syntax-fgColor-string: #ce9178 !important;
+	--codeMirror-syntax-fgColor-support: #79c0ff !important;
+	--codeMirror-syntax-fgColor-variable: #4ec9b0 !important;
+	--color-prettylights-syntax-comment: #6b6b6b !important;
+	--color-prettylights-syntax-constant: #dcdcaa !important;
+	--color-prettylights-syntax-constant-other-reference-link: #dcdcaa !important;
+	--color-prettylights-syntax-entity: #79c0ff !important;
+	--color-prettylights-syntax-storage-modifier-import: #4ec9b0 !important;
+	--color-prettylights-syntax-entity-tag: #79c0ff !important;
+	--color-prettylights-syntax-keyword: #c586c0 !important;
+	--color-prettylights-syntax-string: #ce9178 !important;
+	--color-prettylights-syntax-variable: #4ec9b0 !important;
 	--contribution-default-bgColor-0: #f0f0f0 !important;
 	--header-fgColor-logo: #ffffff !important;
 	--header-bgColor: #252525 !important;
@@ -133,7 +150,7 @@
 	--sideNav-bgColor-selected: #ffffff !important;
 	--skeletonLoader-bgColor: #8888881a !important;
 	--timelineBadge-bgColor: #f7f7f7 !important;
-	--underlineNav-borderColor-active: #54aeff !important;
+	--treeViewItem-leadingVisual-iconColor-rest: #7a7a7a !important;
 	--underlineNav-borderColor-hover: #d0d0d0b3 !important;
 	--underlineNav-iconColor-rest: #666666 !important;
 	--card-bgColor: #ffffff !important;

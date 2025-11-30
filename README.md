@@ -5,6 +5,7 @@
 > [!WARNING]
 > These boosts are made based on my own tastes first and foremost, and they are by no means "comprehensive". If I see something is wrong or missing from a boost, I add it. If you for some reason use any of these and notice something wrong or missing, you can let me know with an [issue](https://github.com/956MB/boosts/issues) or [PR](https://github.com/956MB/boosts/pulls).
 
+* [Codeberg (Gitea theme)](./boosts/codeberg-gitea-neutral.css) / [Codeberg (Gitea theme) VSCode Syntax](./boosts/codeberg-gitea-neutral-vscode.css) / [Codeberg Darker (Gitea theme)](./boosts/codeberg-gitea-neutral-darker.css) / [Codeberg Darker VSCode Syntax (Gitea theme)](./boosts/codeberg-gitea-neutral-darker-vscode.css)
 * [Github](./boosts/github-neutral-default-syntax.css) / [Github (VSCode Syntax)](./boosts/github-neutral-vscode-syntax.css)
 * [Reddit](./boosts/reddit-neutral.css)
 * [Hugging Face](./boosts/hugging-face-neutral.css)
@@ -25,6 +26,12 @@
 7. Paste the copied text into the `CSS` editor
 
 **DONE!**
+
+## Codeberg (Gitea theme)
+
+Last updated: 11-29-2025 | [codeberg-gitea-neutral](./boosts/codeberg-gitea-neutral.css) · [codeberg-gitea-neutral-vscode](./boosts/codeberg-gitea-neutral-vscode.css) · [codeberg-gitea-neutral-darker](./boosts/codeberg-gitea-neutral-darker.css) · [codeberg-gitea-neutral-darker-vscode](./boosts/codeberg-gitea-neutral-darker-vscode.css)
+
+![Codeberg-Neutral](./img/Codeberg-Neutral.png)
 
 ## Github
 
