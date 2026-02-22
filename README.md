@@ -14,6 +14,8 @@ _Boost process works as of **1.124.0 (71787)**. [Arc](https://arc.net/) could ch
 
 # Adding boosts
 
+## Arc
+
 1. Open [Arc](https://arc.net/)
 2. Go to corresponding site for the boost you're installing (e.g. [claude.ai](https://claude.ai/))
 3. Click the `Site Control Center` button to the right of the URL bar
@@ -21,6 +23,22 @@ _Boost process works as of **1.124.0 (71787)**. [Arc](https://arc.net/) could ch
 5. Click `Code` button towards the bottom
 6. Copy the CSS from the corresponding boost (e.g. [claude-neutral](./boosts/claude-neutral.css))
 7. Paste the copied text into the `CSS` editor
+
+**DONE!**
+
+## Outside Arc (Stylus)
+
+These styles can also work in any Chromium or Firefox browser, like with the [Stylus](https://github.com/openstyles/stylus) extension.
+
+1. Install the Stylus extension:
+    - [Chrome / Chromium](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+    - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
+2. Go to corresponding site for the style you're installing (e.g. [github.com](https://github.com/))
+3. Click the Stylus extension icon wherever you have it pinned
+4. Click `Write style for: <site URL>`
+5. Copy the CSS from the corresponding boost (e.g. [github-neutral-vscode-syntax](./boosts/github-neutral-vscode-syntax.css))
+6. Paste the copied text into the editor
+7. Click `Save`
 
 **DONE!**
 
