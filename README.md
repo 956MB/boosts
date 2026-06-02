@@ -1,6 +1,6 @@
 # Boosts
 
-_Boost process works as of **1.124.0 (71787)**. [Arc](https://arc.net/) could change how the boosts function at any time, they update often..._
+_Boost process works as of **1.124.0 (71787)** in [Arc](https://arc.net/), and [Zen](https://zen-browser.app/) as of **v1.20b**.
 
 > [!WARNING]
 > These boosts are made based on my own tastes first and foremost, and they are by no means "comprehensive". If I see something is wrong or missing from a boost, I add it. If you for some reason use any of these and notice something wrong or missing, you can let me know with an [issue](https://github.com/956MB/boosts/issues) or [PR](https://github.com/956MB/boosts/pulls).
@@ -9,6 +9,7 @@ _Boost process works as of **1.124.0 (71787)**. [Arc](https://arc.net/) could ch
 -   [Claude](./boosts/claude-neutral.css) / [Claude (Darker)](./boosts/claude-neutral-darker.css) / [Claude (Darkest)](./boosts/claude-neutral-darkest.css)
 -   [Codeberg](./boosts/codeberg-gitea-neutral.css) / [Codeberg VSCode Syntax](./boosts/codeberg-gitea-neutral-vscode.css) / [Codeberg Darker](./boosts/codeberg-gitea-neutral-darker.css) / [Codeberg Darker VSCode Syntax](./boosts/codeberg-gitea-neutral-darker-vscode.css)
 -   [Github](./boosts/github-neutral-default-syntax.css) / [Github (VSCode Syntax)](./boosts/github-neutral-vscode-syntax.css)
+-   [Tangled](./boosts/tangled-neutral.css)
 -   [Hugging Face](./boosts/hugging-face-neutral.css)
 -   [Reddit](./boosts/reddit-neutral.css)
 
@@ -16,19 +17,19 @@ _Boost process works as of **1.124.0 (71787)**. [Arc](https://arc.net/) could ch
 
 ## Arc
 
-1. Open [Arc](https://arc.net/)
+1. Open [Arc](https://arc.net/) or [Zen](https://zen-browser.app/) (process is identical for both)
 2. Go to corresponding site for the boost you're installing (e.g. [claude.ai](https://claude.ai/))
 3. Click the `Site Control Center` button to the right of the URL bar
-4. Click `New Boost` button (the paint brush icon)
+4. Click `New Boost` button (or the paint brush icon)
 5. Click `Code` button towards the bottom
 6. Copy the CSS from the corresponding boost (e.g. [claude-neutral](./boosts/claude-neutral.css))
 7. Paste the copied text into the `CSS` editor
 
 **DONE!**
 
-## Outside Arc (Stylus)
+## Outside Arc / Zen (Stylus)
 
-These styles can also work in any Chromium or Firefox browser, like with the [Stylus](https://github.com/openstyles/stylus) extension.
+These styles can also work in any Chromium or Firefox browser (including Zen), like with the [Stylus](https://github.com/openstyles/stylus) extension.
 
 1. Install the Stylus extension:
     - [Chrome / Chromium](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
@@ -72,6 +73,12 @@ I just don't like blue themes. The boost [github-neutral-vscode-syntax](./boosts
 Last updated: 04-11-2025 | [github-neutral-default-syntax](./boosts/github-neutral-default-syntax.css) · [github-neutral-vscode-syntax](./boosts/github-neutral-vscode-syntax.css) · [github-neutral-default-syntax-light](./boosts/github-neutral-default-syntax-light.css)
 
 ![Github-Neutral](./img/Github-Neutral.png)
+
+## Tangled
+
+![Tangled-Neutral](./img/Tangled-Neutral.png)
+
+Last updated: 06-02-2026
 
 ## Hugging Face (WIP)
 

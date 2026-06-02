@@ -1,0 +1,133 @@
+/* Tangled Neutral */
+/* https://github.com/956MB/boosts/blob/main/tangled-neutral.css */
+
+/* https://tangled.org/ */
+
+@media (prefers-color-scheme: dark) {
+  .dark\:bg-gray-900,
+  .dark\:\[\&_pre\]\:bg-gray-900 pre,
+  .btn-group-item,
+  input:not([type="checkbox"]),
+  textarea,
+  .prose :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+    background-color: rgb(17 17 17 / var(--tw-bg-opacity, 1)) !important;
+  }
+
+  .dark\:bg-gray-800,
+  .btn,
+  .btn-group-item.active,
+  .md\:dark\:bg-gray-800 {
+    background-color: rgb(31 31 31 / var(--tw-bg-opacity, 1)) !important;
+  }
+
+  .dark\:bg-gray-700,
+  .md\:dark\:bg-gray-700,
+  code,
+  .btn-flat:hover,
+  input[type="checkbox"]:hover {
+    background-color: rgb(55 55 55 / var(--tw-bg-opacity, 1)) !important;
+  }
+
+  input[type="checkbox"]:hover:checked {
+    --tw-bg-opacity: 1;
+    background-color: rgb(229 231 235 / var(--tw-bg-opacity, 1));
+  }
+
+  .dark\:bg-blue-950 {
+    background-color: rgb(45 45 45 / var(--tw-bg-opacity, 1)) !important;
+  }
+
+  .dark\:bg-gray-600 {
+    background-color: rgb(75 75 75 / var(--tw-bg-opacity, 1)) !important;
+  }
+
+  .dark\:border-gray-700,
+  .dark\:md\:border-gray-700,
+  .dark\:border-blue-900,
+  .btn,
+  .btn-group,
+  .btn-group-item.active,
+  .btn-group > :not([hidden]) ~ :not([hidden]),
+  .dark\:divide-gray-700 > :not([hidden]) ~ :not([hidden]),
+  .prose :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *)),
+  .prose :where(hr):not(:where([class~="not-prose"], [class~="not-prose"] *)),
+  .prose :where(h1, h2, h3, h4, h5):not(:where([class~="not-prose"], [class~="not-prose"] *)),
+  .prose :where(thead):not(:where([class~="not-prose"], [class~="not-prose"] *)),
+  .prose :where(tbody tr):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+    border-color: rgb(55 55 55 / var(--tw-border-opacity, 1)) !important;
+  }
+
+  .dark\:border-gray-600,
+  .md\:dark\:border-gray-600,
+  input,
+  textarea,
+  input[type="checkbox"] {
+    border-color: rgb(75 75 75 / var(--tw-border-opacity, 1)) !important;
+  }
+
+  .dark\:text-gray-200,
+  text-gray-800,
+  .dark\:placeholder-gray-600 {
+    color: rgb(229 229 229 / var(--tw-text-opacity, 1)) !important;
+  }
+
+  .dark\:text-gray-400,
+  .dark\:text-gray-300,
+  .text-gray-400,
+  .hover\:dark\:text-gray-400:hover {
+    color: rgb(175 175 175 / var(--tw-text-opacity, 1)) !important;
+  }
+
+  .text-gray-500 {
+    color: rgb(107 107 107 / var(--tw-text-opacity, 1)) !important;
+  }
+
+  .prose :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *)),
+  a:hover {
+    color: rgb(209 209 209 / var(--tw-text-opacity, 1)) !important;
+  }
+
+  .btn-group-item.active {
+    color: rgb(243 243 243 / var(--tw-text-opacity, 1)) !important;
+  }
+
+  .btn {
+    color: rgb(243 244 246 / var(--tw-text-opacity, 1));
+  }
+
+  .dark\:text-gray-700 {
+    color: rgb(55 55 55 / var(--tw-text-opacity, 1)) !important;
+  }
+
+  input::placeholder {
+    color: rgb(145 145 145 / var(--tw-placeholder-opacity, 1)) !important;
+  }
+
+  .dark\:placeholder-gray-600::placeholder {
+    color: rgb(75 75 75 / var(--tw-placeholder-opacity, 1)) !important;
+  }
+
+  input,
+  textarea,
+  .btn::before,
+  .btn-group-item {
+    filter: saturate(0) !important;
+  }
+
+  .chroma .c,
+  .chroma .c1 {
+    color: #6E6E6E !important;
+  }
+
+  .prose {
+    --tw-prose-invert-bullets: #4B4B4B !important;
+  }
+
+  .hover\:dark\:bg-gray-700\/50:hover {
+    background-color: rgb(55 55 55 / 0.5) !important;
+  }
+
+  .group:hover .group-hover\:dark\:bg-gray-700\/25 {
+    background-color: rgb(55 55 55 / 0.25) !important;
+  }
+}
