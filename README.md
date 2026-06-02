@@ -1,6 +1,6 @@
 # Boosts
 
-_Boost process works as of **1.124.0 (71787)** in [Arc](https://arc.net/), and [Zen](https://zen-browser.app/) as of **v1.20b**.
+_Boost process works as of **1.124.0 (71787)** in [Arc](https://arc.net/), and [Zen](https://zen-browser.app/) as of **v1.20b**._
 
 > [!WARNING]
 > These boosts are made based on my own tastes first and foremost, and they are by no means "comprehensive". If I see something is wrong or missing from a boost, I add it. If you for some reason use any of these and notice something wrong or missing, you can let me know with an [issue](https://github.com/956MB/boosts/issues) or [PR](https://github.com/956MB/boosts/pulls).
