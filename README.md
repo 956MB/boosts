@@ -1,6 +1,6 @@
 # Boosts
 
-_Boost process works as of **1.124.0 (71787)** in [Arc](https://arc.net/), and [Zen](https://zen-browser.app/) as of **v1.20b**._
+_Boost process works in [Zen](https://zen-browser.app/) as of **v1.24b**._
 
 > [!WARNING]
 > These boosts are made based on my own tastes first and foremost, and they are by no means "comprehensive". If I see something is wrong or missing from a boost, I add it. If you for some reason use any of these and notice something wrong or missing, you can let me know with an [issue](https://github.com/956MB/boosts/issues) or [PR](https://github.com/956MB/boosts/pulls).
@@ -15,9 +15,9 @@ _Boost process works as of **1.124.0 (71787)** in [Arc](https://arc.net/), and [
 
 # Adding boosts
 
-## Arc
+## Zen
 
-1. Open [Arc](https://arc.net/) or [Zen](https://zen-browser.app/) (process is identical for both)
+1. Open [Zen](https://zen-browser.app/)
 2. Go to corresponding site for the boost you're installing (e.g. [claude.ai](https://claude.ai/))
 3. Click the `Site Control Center` button to the right of the URL bar
 4. Click `New Boost` button (or the paint brush icon)
@@ -27,7 +27,7 @@ _Boost process works as of **1.124.0 (71787)** in [Arc](https://arc.net/), and [
 
 **DONE!**
 
-## Outside Arc / Zen (Stylus)
+## Outside Zen (Stylus)
 
 These styles can also work in any Chromium or Firefox browser (including Zen), like with the [Stylus](https://github.com/openstyles/stylus) extension.
 
